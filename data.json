@@ -1,0 +1,14 @@
+{
+  "appName": "Elite Kanban Pro",
+  "version": "1.2.0",
+  "description": "Sample project data for a React Kanban board. The app starts empty so users can add tasks themselves.",
+  "features": [
+    "Empty initial board for easy understanding",
+    "Add, edit, delete, and move tasks",
+    "Priority labels",
+    "Search and theme support",
+    "LocalStorage persistence",
+    "Simple animated interface"
+  ],
+  "seedTasks": []
+}
